@@ -5,7 +5,7 @@ import com.walgreens.interfaces.FaxInterface;
 public class Clinic implements FaxInterface {
 	
 	public String getFaxNumber() {
-		return "111-222-3333";
+		return "333-444-5555";
 	}
 
 }
